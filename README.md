@@ -777,4 +777,6 @@ Link do deploy da API somente para testes: [link](https://desafio-backend-03-din
 
 **LEMBRE-SE**: Feito é melhor que perfeito!!!
 
+**FUNCIONAMENTO**: No terminal usar **npm install** para instalar todas as dependências do projeto e adicionar os valores do banco de dados nas respectivas chaves ao arquivo **configuracoes.json**, inserir um valor (senha) para a chave **senhaJWT** que será utilizada para a criptografia do projeto.
+
 ###### tags: `back-end` `módulo 3` `nodeJS` `PostgreSQL` `API REST` `desafio`
